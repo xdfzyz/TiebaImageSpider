@@ -1,1 +1,1 @@
-# tornado-weixin
+# TiebaImageSpider
